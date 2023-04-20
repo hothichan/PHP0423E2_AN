@@ -5,4 +5,8 @@ Kỹ năng cơ bản về Git
 	+ Có nhiều dịch vụ cung cấp sẵn Git: GitHub, Gitlap, Bitbucket,...
 2 - Demo quản lý source code với Git:
 	+ Đăng ký tài khoản
+	+ git init -> khởi taoh trên git trên thư mục hiện tại
+	+ git remote -v -> kiểm tra link repo
+	+ git status -> kiểm tra trạn thái file/ thư mục
+	+ git add -> thêm file cho git để chuẩn bị cho commit
 	+ 
