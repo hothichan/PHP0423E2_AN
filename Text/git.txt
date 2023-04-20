@@ -1,0 +1,8 @@
+Kỹ năng cơ bản về Git
+1 - Git là gì, tại  sao cần Git?
+	+ Là công cụ quản lý source code (giống Google Drive) và code nhóm hiệu quả
+	Bài toán: nếu không có Git, gộp code giữa các thành viên sẽ bị thủ công -> sai sót
+	+ Có nhiều dịch vụ cung cấp sẵn Git: GitHub, Gitlap, Bitbucket,...
+2 - Demo quản lý source code với Git:
+	+ Đăng ký tài khoản
+	+ 
